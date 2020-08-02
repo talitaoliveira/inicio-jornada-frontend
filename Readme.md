@@ -38,6 +38,7 @@
 ### Por que?
 
 - Linguagem de marcação, marcar o conteúdo que vai ser exibido numa página web;
+- Definir o que é paragrafo, titulo, listas, links, imagens...
 - Importante na área de frontend. Mesmo que existam bibliotecas como o React que "abstrai" muita coisa de HTML, é importante aprender os conceitos de HTML.
 
 ### Onde?
