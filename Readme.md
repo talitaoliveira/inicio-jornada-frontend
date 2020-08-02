@@ -101,5 +101,5 @@
 - Aprender como fazer um projeto que está no Github aparecer em uma página usando o Github Pages
     - Criar um site do [GitHub Pages](https://docs.github.com/pt/github/working-with-github-pages/creating-a-github-pages-site)
 - Ideias de projetos para treinar: [](https://github.com/estevanmaito/apenas-crie-websites)
-- Site com tutoriais HTML, CSS, JS - Tem básico, intermediário e avançado [](http://www.htmldog.com/guides/)
+- [Site com tutoriais HTML, CSS, JS - Tem básico, intermediário e avançado](http://www.htmldog.com/guides/)
 - [Criar um site simples usando HTML, CSS e JavaScript](https://docs.microsoft.com/pt-br/learn/modules/build-simple-website/)
