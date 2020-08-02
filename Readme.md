@@ -1,6 +1,6 @@
 # 🗺 Jornada Frontend
 
-<img src="assets/inicio-jornada-frontend.png" />
+<img src="assets/inicio-jornada-frontend-1.png" />
 
 ## :octocat: Git/Github
 
