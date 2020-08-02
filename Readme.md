@@ -1,5 +1,7 @@
 # 🗺 Jornada Frontend
 
+<img src="assets/inicio-jornada-frontend.png" />
+
 ## :octocat: Git/Github
 
 ### Por que?
