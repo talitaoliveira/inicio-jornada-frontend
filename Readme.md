@@ -88,6 +88,7 @@
 ### Onde?
 
 - [O que é Javascript? - Primeiros passos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/O_que_e_JavaScript)
+- [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 - Livros:
   - [JavaScript Eloquente - 2a edição](https://github.com/braziljs/eloquente-javascript)
   - [You Don't Know JS (série de livros)](https://github.com/cezaraugusto/You-Dont-Know-JS)
