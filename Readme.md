@@ -7,7 +7,7 @@
 ### Por que?
 
 - A medida que for criando projetos é bom colocar em algum lugar;
-- Github é bom pois é popular na área de desenvolvimento;
+- Github é popular na área de desenvolvimento;
 - Pode servir de portfolio, outras pessoas podem ver seu código;
 - Git é uma ferramenta importante na área de desenvolvimento. Projetos evoluem e/ou tem correções e é preciso ter um histórico do desenvolvimento;
 - Git é usado por times de desenvolvimento em empresas para o versionamento dos projetos;
